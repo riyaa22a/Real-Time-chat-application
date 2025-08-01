@@ -42,6 +42,5 @@ GeeksforGeeks
 *Real-Time Communication*: When a user sends a message, the client emits a 'chat message' event to the server. The server then broadcasts this message to all connected clients, ensuring that every user in the chat room receives the message instantly. 
 
 # output
-GeeksforGeeks
 
-User Interaction: Users can join the chat room by accessing the application through their web browser. Upon entering, they can see messages from other users in real-time and send their own messages to the group.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/505ce7dc-165c-40f9-9d3c-4697cea70119" />
